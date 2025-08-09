@@ -11,4 +11,4 @@
 
 
 ## 📩 Contact 
-**[X-ter5q](https://X.com/ter5q)**
+**[Email](contact@ter3q.com)**
