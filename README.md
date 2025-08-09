@@ -11,4 +11,4 @@
 
 
 ## 📩 Contact 
-**[Email](contact@ter3q.com)**
+**[Email](mailto:contact@ter3q.com)**
