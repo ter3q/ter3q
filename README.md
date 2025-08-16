@@ -5,7 +5,7 @@
 
 
 ## 📈 Activity
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ter3q&layout=compact&langs_count=20&exclude_repo=octopress_jp,octopress_en,rcmdnk.github.io,en,octogray_test))
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ter3q&layout=compact&langs_count=20&exclude_repo=octopress_jp,octopress_en,rcmdnk.github.io,en,octogray_test)
 
 
 ## 📩 Contact 
